@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+E:\Selenide\Selenide\SelenideDemos\.metadata\.plugins\org.eclipse.jdt.core
+3061308162.index
+64768391.index
+1865797976.index
